@@ -1,7 +1,7 @@
 # Pulse
 My Indie Horror Survival Game
 
-![Pulse Gif 1](https://raw.githubusercontent.com/baa232/Pulse/main/Images/Pulse_Chase_Scene.gif)
+![Pulse PNG Logo](https://raw.githubusercontent.com/baa232/Pulse/main/Images/Pulse_Logo.png)
 
 ## Table of Contents
 
@@ -28,6 +28,9 @@ My Indie Horror Survival Game
 
 ## Screenshots
 
-
+![Pulse GIF Chase Scene](https://raw.githubusercontent.com/baa232/Pulse/main/Images/Pulse_Chase_Scene.gif)
+![Pulse PNG Sunset](https://raw.githubusercontent.com/baa232/Pulse/main/Images/Pulse_Sunset.png)
+![Pulse PNG Flashlight](https://raw.githubusercontent.com/baa232/Pulse/main/Images/Pulse_Flashlight.png)
+![Pulse PNG Pause Menu](https://raw.githubusercontent.com/baa232/Pulse/main/Images/Pulse_Pause_Menu.png)
 
 ---
